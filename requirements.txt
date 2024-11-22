@@ -1,0 +1,6 @@
+
+pdfplumber
+customtkinter
+sv_ttk
+darkdetect
+Pillow
